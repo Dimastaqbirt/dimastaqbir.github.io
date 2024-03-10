@@ -1,0 +1,10 @@
+/* CSS untuk mengubah tema menjadi biru */
+body {
+    background-color: #f0f7ff; /* Ubah latar belakang menjadi biru muda */
+    color: #333; /* Ubah warna teks menjadi abu-abu gelap */
+}
+
+/* Hapus gambar di sisi kanan */
+.right-image-decor {
+    display: none; /* Sembunyikan gambar di sisi kanan */
+}
